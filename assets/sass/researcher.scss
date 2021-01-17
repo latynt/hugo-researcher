@@ -71,7 +71,7 @@ $y-medium: 1.0rem;
         margin: $y-medium auto;
     }
     .avatar > img {
-        border-radius: 50%;
+        border-radius: 0%;
         float: right;
         margin: -8px 0 0 16px;
         height: $avatar-size;
@@ -112,7 +112,7 @@ $y-medium: 1.0rem;
     }
     code {
         color: $black;
-        background-color: #f8f8f8;
+        background-color: #b5d68f;
         border: 1px solid #cccccc;
         border-radius: 10%;
         padding: 0px 4px;
